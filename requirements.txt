@@ -1,0 +1,3 @@
+pip install mediapipe
+pip install pyaudio
+pip install opencv-python
