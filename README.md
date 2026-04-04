@@ -1,4 +1,5 @@
 # PSYCHO-GYM
+<img src="GYM.jpeg" alt="Contoh Gambar" style="border-radius: 10px;" width="500" height="600"/>
 # MENDETEKSI GERAKAN PUSH UP DAN HITUNG OTOMATIS<br>
 -program ini dibuat sebagai praktek pembelajaran opencv dan mediapipe saya.<br>
 -menggunakan hand dan pose landmarks dari mediapipe untuk mendeteksi tubuh<br>
