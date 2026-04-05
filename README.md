@@ -1,5 +1,8 @@
-# PSYCHO-GYM
+<h1 align="center"> PSYCHO-GYM </h1>
+<p align="center">
 <img src="GYM.jpeg" alt="Contoh Gambar" style="border-radius: 10px;" width="500" height="600"/>
+</p>
+
 # MENDETEKSI GERAKAN PUSH UP DAN HITUNG OTOMATIS<br>
 -program ini dibuat sebagai praktek pembelajaran opencv dan mediapipe saya.<br>
 -menggunakan hand dan pose landmarks dari mediapipe untuk mendeteksi tubuh<br>
@@ -15,3 +18,7 @@
 -INSTALL SEMUA YANG ADA DI [REQUIREMENTS](requirements.txt)<br>
 -FILE [VISI](visi.py) ADALAH FILE PROGRAM UTAMA<br> 
 
+<hr>
+
+## © 2025 Rivaldi Fadlan
+All rights reserved. Unauthorized use, copying, modification, or distribution without permission is strictly prohibited.
